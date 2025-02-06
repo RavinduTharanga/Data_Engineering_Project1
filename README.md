@@ -1,9 +1,8 @@
-![plot](snowflake.png)
-Here's a clean and professional README file for your GitHub project:  
-
 ---
 
 ### **Redfin Real Estate Data Analytics - ETL Data Engineering Project**
+
+![plot](Architecture.png)
 
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) data engineering pipeline for Redfin real estate data. The pipeline utilizes **Apache Airflow, AWS (S3, EC2), Snowflake, Snowpipe, and Power BI** to extract, transform, and visualize real estate insights.
 
@@ -44,6 +43,8 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) data engi
    - Use Airflow to automate and schedule the entire ETL pipeline.
 
 ---
+
+![plot](snowflake.png)
 
 ## **Setup & Installation**
 ### **1. Clone the Repository**
