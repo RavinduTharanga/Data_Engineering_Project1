@@ -2,7 +2,7 @@
 
 ### Real Estate Data Analytics - ETL Data Engineering Project
 
-![plot](Architecture.png)
+
 
 This project demonstrates an end-to-end ETL (Extract, Transform, Load) data engineering pipeline for Redfin real estate data. The pipeline utilizes **Apache Airflow, AWS (S3, EC2), Snowflake, Snowpipe, and Power BI** to extract, transform, and visualize real estate insights.
 
