@@ -78,21 +78,5 @@ pip install -r requirements.txt
 │── 📄 README.md         # Project documentation
 ```
 
----
 
-## **Contributing**
-Feel free to fork the repository and submit pull requests to improve the project.
 
----
-
-## **License**
-This project is licensed under the MIT License.
-
----
-
-## **Contact**
-For any questions or contributions, feel free to open an issue or connect via [Your Contact Info].
-
----
-
-Would you like to add any specific configurations or setup details? 😊
