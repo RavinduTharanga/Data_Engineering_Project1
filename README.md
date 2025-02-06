@@ -1,6 +1,6 @@
 ---
 
-### **Redfin Real Estate Data Analytics - ETL Data Engineering Project**
+### ** Real Estate Data Analytics - ETL Data Engineering Project**
 
 ![plot](Architecture.png)
 
