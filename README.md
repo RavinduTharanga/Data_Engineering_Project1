@@ -1,6 +1,6 @@
 ---
 
-### ** Real Estate Data Analytics - ETL Data Engineering Project**
+### Real Estate Data Analytics - ETL Data Engineering Project
 
 ![plot](Architecture.png)
 
@@ -8,7 +8,7 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) data engi
 
 ---
 
-## **Technologies Used**
+## Technologies Used
 - **Python** - Data extraction and transformation
 - **Pandas** - Data manipulation and transformation
 - **Apache Airflow** - Orchestration and automation
@@ -20,7 +20,7 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) data engi
 
 ---
 
-## **Project Workflow**
+## Project Workflow
 1. **Extract Data**  
    - Connect to Redfin data center and extract real estate data using Python.
 
@@ -46,19 +46,19 @@ This project demonstrates an end-to-end ETL (Extract, Transform, Load) data engi
 
 ![plot](snowflake.png)
 
-## **Setup & Installation**
-### **1. Clone the Repository**
+## Setup & Installation
+### 1. Clone the Repository
 ```bash
 git clone https://github.com/your-username/redfin-etl-project.git
 cd redfin-etl-project
 ```
 
-### **2. Install Dependencies**
+### 2. Install Dependencies
 ```bash
 pip install -r requirements.txt
 ```
 
-### **3. Configure AWS & Snowflake**
+### 3. Configure AWS & Snowflake
 - Set up **AWS S3** for storage.
 - Configure **Snowflake** credentials.
 - Enable **Snowpipe** for automatic ingestion.
